@@ -1,0 +1,95 @@
+<svg width="1400" height="820" viewBox="0 0 1400 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="820" rx="28" fill="#F3F2F7"/>
+  <rect x="24" y="24" width="1352" height="772" rx="24" fill="#FBFBFE"/>
+
+  <rect x="40" y="38" width="92" height="660" rx="26" fill="#F0EEF8"/>
+  <rect x="54" y="58" width="64" height="86" rx="22" fill="#E8E6F4"/>
+  <rect x="64" y="176" width="44" height="44" rx="14" fill="#FFFFFF"/>
+  <rect x="64" y="294" width="44" height="44" rx="14" fill="#FFFFFF"/>
+  <rect x="64" y="412" width="44" height="44" rx="14" fill="#FFFFFF"/>
+  <circle cx="86" cy="744" r="22" fill="#FFFFFF"/>
+
+  <text x="152" y="92" fill="#111111" font-family="Arial, sans-serif" font-size="34" font-weight="700">Finance Dashboard</text>
+
+  <rect x="674" y="54" width="130" height="54" rx="14" fill="#FFFFFF" stroke="#9AD9E7" stroke-width="3"/>
+  <rect x="823" y="54" width="118" height="54" rx="18" fill="#6F63F6"/>
+  <rect x="956" y="54" width="118" height="54" rx="18" fill="#6F63F6"/>
+  <rect x="1089" y="54" width="118" height="54" rx="18" fill="#6F63F6"/>
+  <rect x="1222" y="54" width="118" height="54" rx="18" fill="#6F63F6"/>
+
+  <rect x="148" y="148" width="574" height="310" rx="24" fill="#FFFFFF" stroke="#E3E1EA" stroke-width="2"/>
+  <text x="170" y="182" fill="#202020" font-family="Arial, sans-serif" font-size="28" font-weight="700">Target by Date</text>
+  <text x="430" y="176" fill="#505050" font-family="Arial, sans-serif" font-size="20" font-weight="700">Expenses</text>
+  <text x="520" y="176" fill="#505050" font-family="Arial, sans-serif" font-size="20" font-weight="700">Income</text>
+  <text x="610" y="176" fill="#505050" font-family="Arial, sans-serif" font-size="20" font-weight="700">Savings</text>
+  <text x="702" y="176" fill="#6F63F6" font-family="Arial, sans-serif" font-size="20" font-weight="700">Target</text>
+
+  <line x1="196" y1="248" x2="684" y2="248" stroke="#D8D4E8" stroke-dasharray="4 8"/>
+  <line x1="196" y1="332" x2="684" y2="332" stroke="#D8D4E8" stroke-dasharray="4 8"/>
+  <line x1="196" y1="416" x2="684" y2="416" stroke="#D8D4E8" stroke-dasharray="4 8"/>
+  <line x1="196" y1="222" x2="196" y2="430" stroke="#D8D4E8" stroke-dasharray="4 8"/>
+  <line x1="352" y1="222" x2="352" y2="430" stroke="#D8D4E8" stroke-dasharray="4 8"/>
+  <line x1="508" y1="222" x2="508" y2="430" stroke="#D8D4E8" stroke-dasharray="4 8"/>
+  <line x1="664" y1="222" x2="664" y2="430" stroke="#D8D4E8" stroke-dasharray="4 8"/>
+  <path d="M198 384H346L364 220H682V384H198Z" fill="#D7D7FF" fill-opacity="0.72"/>
+  <path d="M198 384H346L364 220H682" stroke="#6F63F6" stroke-width="4" stroke-linejoin="round"/>
+
+  <rect x="792" y="144" width="252" height="152" rx="24" fill="url(#gradCard)"/>
+  <rect x="1062" y="144" width="252" height="152" rx="24" fill="#F6F4FB"/>
+  <rect x="792" y="314" width="252" height="152" rx="24" fill="#F6F4FB"/>
+  <rect x="1062" y="314" width="252" height="152" rx="24" fill="#F6F4FB"/>
+
+  <text x="828" y="254" fill="#121212" font-family="Arial, sans-serif" font-size="38" font-weight="700">3M</text>
+  <text x="828" y="290" fill="#5A5A66" font-family="Arial, sans-serif" font-size="24">Income</text>
+  <text x="1098" y="254" fill="#121212" font-family="Arial, sans-serif" font-size="38" font-weight="700">1M</text>
+  <text x="1098" y="290" fill="#5A5A66" font-family="Arial, sans-serif" font-size="24">Expenses</text>
+  <text x="828" y="424" fill="#121212" font-family="Arial, sans-serif" font-size="38" font-weight="700">2M</text>
+  <text x="828" y="460" fill="#5A5A66" font-family="Arial, sans-serif" font-size="24">Savings</text>
+  <text x="1168" y="424" fill="#121212" font-family="Arial, sans-serif" font-size="38" font-weight="700">1</text>
+  <text x="1122" y="460" fill="#5A5A66" font-family="Arial, sans-serif" font-size="24">Savings%</text>
+
+  <rect x="148" y="480" width="408" height="292" rx="24" fill="#FFFFFF" stroke="#E3E1EA" stroke-width="2"/>
+  <rect x="576" y="480" width="408" height="292" rx="24" fill="#FFFFFF" stroke="#E3E1EA" stroke-width="2"/>
+  <rect x="1004" y="480" width="328" height="292" rx="24" fill="#FFFFFF" stroke="#E3E1EA" stroke-width="2"/>
+  <text x="170" y="522" fill="#202020" font-family="Arial, sans-serif" font-size="26" font-weight="700">Expenses</text>
+  <text x="598" y="522" fill="#202020" font-family="Arial, sans-serif" font-size="26" font-weight="700">Savings</text>
+
+  <circle cx="316" cy="650" r="92" fill="#F9F9FD"/>
+  <circle cx="316" cy="650" r="64" fill="#FFFFFF"/>
+  <path d="M316 558A92 92 0 0 1 395 604L316 650Z" fill="#2CC7E8"/>
+  <path d="M395 604A92 92 0 0 1 356 731L316 650Z" fill="#675BF3"/>
+  <path d="M356 731A92 92 0 0 1 241 704L316 650Z" fill="#4AA3E8"/>
+  <path d="M241 704A92 92 0 0 1 226 612L316 650Z" fill="#D774F2"/>
+  <path d="M226 612A92 92 0 0 1 316 558L316 650Z" fill="#31C8E5"/>
+
+  <circle cx="744" cy="650" r="92" fill="#F9F9FD"/>
+  <circle cx="744" cy="650" r="64" fill="#FFFFFF"/>
+  <path d="M744 558A92 92 0 1 1 676 583L744 650Z" fill="#800B9A"/>
+  <path d="M676 583A92 92 0 0 1 714 564L744 650Z" fill="#DB43A5"/>
+  <path d="M714 564A92 92 0 0 1 744 558L744 650Z" fill="#E2B400"/>
+
+  <text x="1030" y="522" fill="#444444" font-family="Arial, sans-serif" font-size="18">Type</text>
+  <text x="1180" y="522" fill="#444444" font-family="Arial, sans-serif" font-size="18">2021</text>
+  <text x="1284" y="522" fill="#444444" font-family="Arial, sans-serif" font-size="18">2022</text>
+  <line x1="1170" y1="552" x2="1170" y2="740" stroke="#D7D3E5" stroke-width="2"/>
+  <text x="1032" y="572" fill="#222222" font-family="Arial, sans-serif" font-size="18" font-weight="700">Target</text>
+  <text x="1032" y="610" fill="#222222" font-family="Arial, sans-serif" font-size="18" font-weight="700">Savings</text>
+  <text x="1032" y="648" fill="#222222" font-family="Arial, sans-serif" font-size="18" font-weight="700">Income</text>
+  <text x="1032" y="686" fill="#222222" font-family="Arial, sans-serif" font-size="18" font-weight="700">Expense</text>
+  <text x="1206" y="572" fill="#222222" font-family="Arial, sans-serif" font-size="16" font-weight="700">₹3.00</text>
+  <text x="1292" y="572" fill="#222222" font-family="Arial, sans-serif" font-size="16" font-weight="700">₹3.60</text>
+  <text x="1186" y="610" fill="#222222" font-family="Arial, sans-serif" font-size="16" font-weight="700">₹5,44,400</text>
+  <text x="1272" y="610" fill="#222222" font-family="Arial, sans-serif" font-size="16" font-weight="700">₹6,10,900</text>
+  <text x="1186" y="648" fill="#222222" font-family="Arial, sans-serif" font-size="16" font-weight="700">₹7,71,000</text>
+  <text x="1272" y="648" fill="#222222" font-family="Arial, sans-serif" font-size="16" font-weight="700">₹8,96,000</text>
+  <text x="1186" y="686" fill="#222222" font-family="Arial, sans-serif" font-size="16" font-weight="700">₹3,03,333</text>
+  <text x="1272" y="686" fill="#222222" font-family="Arial, sans-serif" font-size="16" font-weight="700">₹3,64,318</text>
+
+  <defs>
+    <linearGradient id="gradCard" x1="792" y1="144" x2="1044" y2="296" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C78BF8"/>
+      <stop offset="0.45" stop-color="#6ED0FF"/>
+      <stop offset="1" stop-color="#E2B0FF"/>
+    </linearGradient>
+  </defs>
+</svg>
