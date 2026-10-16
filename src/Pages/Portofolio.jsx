@@ -8,9 +8,9 @@ import SectionTransition from "../components/SectionTransition";
 import { certificates, projects, techStacks } from "../data/portfolioData";
 
 const FEATURED_METRICS = [
-  "Interactive insights",
-  "Dashboard storytelling",
-  "Data-driven decisions",
+  "Full-Stack Platform",
+  "Production Ready",
+  "Premium UI/UX",
 ];
 
 export default function PortfolioShowcase() {
@@ -32,8 +32,8 @@ export default function PortfolioShowcase() {
             Selected work shaped like case studies, not just project cards.
           </h2>
           <p className="mx-auto mt-4 max-w-3xl text-sm leading-7 text-slate-400 md:text-base">
-            A showcase of full-stack builds, analytics work, and computer science projects,
-            with emphasis on practical thinking, clarity, and useful outcomes.
+            A showcase of full-stack builds and adaptive learning platforms,
+            with emphasis on practical engineering, clean architecture, and real-world impact.
           </p>
         </div>
 
